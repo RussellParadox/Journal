@@ -4,7 +4,7 @@ lorsqu’il échoue dans ce qu’il a entrepris, celui qui exerce sur soi un tra
 spirituel s’en prendra à soi-même, **celui qui achèvera ce travail ne s’en
 prendra ni à soi ni aux autres**.
 > 
-> --*Manuel d'Èpictète*
+> --*Manuel d'Èpictète, I.V.*
 
 Thèmes :
 *  Algorithmes et programmes en Python
