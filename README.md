@@ -3,6 +3,8 @@
 lorsqu’il échoue dans ce qu’il a entrepris, celui qui exerce sur soi un travail
 spirituel s’en prendra à soi-même, **celui qui achèvera ce travail ne s’en
 prendra ni à soi ni aux autres**.
+> 
+> Manuel d'Èpictète
 
 Thèmes :
 *  Algorithmes et programmes en Python
