@@ -1,4 +1,4 @@
-# Machine Learning
+# Journal
 > Journal d'Apprentissage
 
 Thèmes :
