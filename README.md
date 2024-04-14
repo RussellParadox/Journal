@@ -2,6 +2,6 @@
 > Journal d'Apprentissage
 
 Thèmes :
-*  Algorithmes et pratiques de programmation en Python
+*  Algorithmes et programmes en Python
 *  Data Analyse
 *  Machine Learning
