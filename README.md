@@ -1,4 +1,4 @@
-# Journal
+# Journal par RussellParadox
 > Journal d'Apprentissage
 
 Thèmes :
